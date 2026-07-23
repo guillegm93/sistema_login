@@ -547,3 +547,26 @@ small, .small {
   --bs-bg-opacity: 1;
   background-color: rgba(var(--bs-success-rgb), var(--bs-bg-opacity)) !important;
 }
+
+#layoutAuthentication #layoutAuthentication_footer {
+  min-width: 0;
+}
+
+.py-4 {
+  padding-top: 1.5rem !important;
+  padding-bottom: 1.5rem !important;
+}
+
+.bg-light {
+  --bs-bg-opacity: 1;
+  background-color: rgba(var(--bs-light-rgb), var(--bs-bg-opacity)) !important;
+}
+
+.mt-auto {
+  margin-top: auto !important;
+}
+
+.text-muted {
+  --bs-text-opacity: 1;
+  color: #6c757d;
+}

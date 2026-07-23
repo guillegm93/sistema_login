@@ -51,7 +51,7 @@
                             </div>
                         </div>
                     </div>
-                    <div style="height: 100vh;"></div>
+                    <!--<div style="height: 100vh;"></div>-->
                 </div>
             </main>
             <?php include_once('includes/footer.php'); ?>
